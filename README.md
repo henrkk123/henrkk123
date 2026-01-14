@@ -1,20 +1,52 @@
-<h1 align="center">Hi 👋, I'm Henrik</h1>
-<h3 align="center">A young developer from germany</h3>
+# <p align="center">🦅 NEURAL EDGE: THE REVOLUTION 🦅</p>
 
-- 🔭 I’m currently working on [a app named VALID](https://validapp.pages.dev/)
-
-- 🌱 I’m currently learning **PyTorch**
-
-- 👯 I’m looking to collaborate on **Nothing**
-
-- 💬 Ask me about **nothing idk iether**
-
-- 📫 How to reach me **HenrikJ.dev@proton.me**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <img src="https://readline.typing-svg.herokuapp.com?font=Orbitron&weight=700&size=35&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=F*CK+PAY-TO-WIN;OPEN+SOURCE+DOMINATION;NEURAL+EDGE+V0.5.0+IS+HERE;BEYOND+DETECTION" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
+### 💀 MY MISSION: THE DEATH OF PAY-TO-WIN
+Ich habe es satt, dass Skill hinter einer Paywall versteckt wird. In einer Welt voller overpriced "Private Cheats" und monatlichen Abos für Performance, die eigentlich jedem zusteht, ist **Neural Edge** die ultimative Antwort.
+
+> **"If performance is a commodity, then freedom is our weapon."**
+
+- 🔓 **Everything Open Source**: Kein Bullshit, kein Hidden-Code, keine Backdoors.
+- 🔥 **Everything Free**: Wir zerstören den Markt der Scam-Provider.
+- ⚡ **Everything Ultra-Fast**: Optimiert für die neueste Hardware (RTX 50-Series Support).
+
+---
+
+### 🛠️ CURRENT PROJECT: NEURAL EDGE (DOMINATION UPDATE)
+Das Flaggschiff der Open-Source AI-Engine. Gebaut für Präzision, getarnt durch neuronale Jitter-Algorithmen.
+
+- **Prediction 2.0**: Echtzeit-Vektorberechnung für Leading-Shots.
+- **Smart Masking**: Vollautomatisches Ausblenden des eigenen Charakters (Anti-Self Lock).
+- **Humanized Bezier**: Mausbewegungen, die den Turing-Test bestehen.
+
+---
+
+### 🛰️ TECH STACK OF DESTRUCTION
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/NVIDIA_CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blackwell_Ready-00FFFF?style=for-the-badge&logo=nvidia&logoColor=black" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+</p>
+
+---
+
+### 📈 REPO STATS
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Stats" />
+</p>
+
+---
+
+## <p align="center">"DON'T COMPLAIN. ADAPT. DOMINATE."</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-ACTIVE-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LICENSE-MIT-00ffff?style=for-the-badge" />
+</p>
