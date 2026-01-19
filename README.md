@@ -1,36 +1,49 @@
 # hey, ich bin henrik 👋
 
-ich bin 14 jahre alt und interessiere mich für coding und hardware. zurzeit lerne ich viel über C++ und entwickle projekte im bereich ios und embedded systems.
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=henrkk123&label=Profile%20Views&color=0e75b6&style=flat" alt="Views" />
+</p>
 
 ---
 
-### 🚀 tech stack
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white) 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+### 🛠️ woran ich gerade schraube
+* **[VALID](https://github.com/henrkk123/altstore-repo)** * meine eigene iOS App für einen AI Style Check.
+  * Komplett nativ in **Swift** gebaut.
+* **ESP32 & Hardware**
+  * ich lerne gerade, wie man mit C++ Hardware steuert und eigene Gadgets baut.
 
 ---
 
-### 🛠 woran ich gerade arbeite
-* **VALID**: meine ios app für einen ai style check. läuft nativ mit swift und nutzt JIT für die performance.
-* **hardware**: ich bastel viel mit dem ESP32 und lerne, wie man hardware und software verbindet.
+### 🚀 skills & tech
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,swift,py,apple,vscode,github,git,discord" />
+  </a>
+</p>
 
 ---
 
-### 🎾 hobbys & interessen
-![Tennis](https://img.shields.io/badge/Tennis-🎾-green?style=flat-square) 
-![Retro Gaming](https://img.shields.io/badge/Retro_Gaming-🕹️-blue?style=flat-square) 
-![3DS Emulation](https://img.shields.io/badge/3DS_Emulation-🎮-red?style=flat-square)
-
-* ich spiele aktiv tennis im verein.
-* in meiner freizeit beschäftige ich mich viel mit retro-gaming und emulatoren auf dem smartphone.
-* mein ziel ist es, in den nächsten jahren meine eigenen apps erfolgreich zu machen.
+### 🎾 hobbys & lifestyle
+| interesse | badge |
+| :--- | :--- |
+| **tennis** | ![Tennis](https://img.shields.io/badge/-Vereinssport-green?style=for-the-badge&logo=tennis&logoColor=white) |
+| **retro gaming** | ![Retro](https://img.shields.io/badge/-3DS_Emulation-red?style=for-the-badge&logo=nintendo-3ds&logoColor=white) |
+| **future goal** | ![Rich](https://img.shields.io/badge/-Business_&_Apps-gold?style=for-the-badge) |
 
 ---
 
-### 📊 stats
-![henrik's github stats](https://github-readme-stats.vercel.app/api?username=henrkk123&theme=tokyonight&show_icons=true&hide_border=true&bg_color=0D1117)
+### 📊 my activity
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=henrkk123&show_icons=true&theme=radical&hide_border=true" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrkk123&layout=compact&theme=radical&hide_border=true" width="300" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=henrkk123&theme=radical&hide_border=true" width="100%" />
+</p>
 
 ---
-*discipline > motivation*
+
+<p align="center">
+  <b>"consistency beats talent every time."</b>
+</p>
